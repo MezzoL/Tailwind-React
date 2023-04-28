@@ -7,7 +7,7 @@ import Contact from './components/Contact'
 function App() {
   
   return (
-    <div>
+    <div className="App bg-white">
       <Sidenav />
       <Main />
       <Work />
